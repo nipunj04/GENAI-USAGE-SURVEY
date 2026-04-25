@@ -7,7 +7,7 @@ The emergence of generative AI has significantly impacted the educational landsc
 
 ### Research Questions
 **RQ1:** Does the perceived usefulness of generative AI for grasping course content differ across different disciplines?
-**RQ2:** How does the proportion of assessments completed with the assistance of generative AI differ across academic disciplines?
+**RQ2:** How does the proportion of assessments completed with the assistance of generative AI differ across academic disciplines?  
 **RQ3:** Does the preference of using generative AI compared to traditional resources (TAs, professors, etc.) differ across academic disciplines? 
 
 ---
